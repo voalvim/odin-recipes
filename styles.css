@@ -1,0 +1,19 @@
+* {
+  background-color: aquamarine;
+}
+h1 {
+  background-color: blue;
+  color: aqua;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  color: black;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+}
